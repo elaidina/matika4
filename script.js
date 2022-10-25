@@ -121,7 +121,7 @@ const quizData = [
     b: "0",
     c: "-3",
     d: "10",
-    correct: "a",
+    correct: "c",
   },{
     question: "50+12-2 =",
     a: "60",
@@ -170,7 +170,7 @@ const quizData = [
     b: "18",
     c: "30",
     d: "32",
-    correct: "c",
+    correct: "d",
   },{
     question: "13+9 =",
     a: "18",
