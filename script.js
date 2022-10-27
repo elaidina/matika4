@@ -119,7 +119,7 @@ const quizData = [
     question: "10-14 =",
     a: "-1",
     b: "0",
-    c: "-3",
+    c: "-4",
     d: "10",
     correct: "c",
   },{
